@@ -25,9 +25,9 @@
 「[H名]って、剣道とか強そうだよね」=“[H名], seems like you would be strong in sports like kendo.”
 「実際強いぞ。その、なんと言うか……経験が違うからな」=“Actuality, I'm realy strong at it. Uh ... How should I say it ... ... Because I had a unique experience.”
 「案外、[H名]みたいな子が女子力高かったりするんだよね」=“Surprisingly, girls like [H名] can be very feminine.”
-//「案外は余計だ。我は単純な力勝負でも男に負けるつもりはない」=“Calling it Surprisingly was unnecessary.I even in a contest of a simple”
-//「ここは暑いから、水分補給はしっかりしないとね」=
-//「ああ。せっかくの旅行中に倒れてしまっては、悲しいからな」=
+「案外は余計だ。我は単純な力勝負でも男に負けるつもりはない」=“Calling it Surprisingly was unnecessary. Even in a contest of a simple ability I wont lose to a man”
+「ここは暑いから、水分補給はしっかりしないとね」=“It's hot here, so we need to stay properly hydrated.”
+「ああ。せっかくの旅行中に倒れてしまっては、悲しいからな」=“Oh. It would be sad to see you collapse in the middle of our long-awaited trip.”
 //「男が恋愛の話とかしたら、やっぱり軟弱者とかって思われちゃう？」=
 //「話し方にもよるな。あからさまに軟派でなければ、いいのではないか？」=
 //「はは、そう警戒するな。我はそこまで狭量ではないぞ？　貴殿の好きな話をするがいい」=
